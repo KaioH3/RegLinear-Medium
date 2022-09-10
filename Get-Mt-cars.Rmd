@@ -1,0 +1,6 @@
+```{r}
+mtcars
+write.csv(mtcars, "mt_car.csv")
+getwd()
+```
+
